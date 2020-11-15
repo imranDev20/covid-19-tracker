@@ -32,3 +32,17 @@
     font-size    : .8rem !important;
     margin-bottom: .15px !important;
 }
+
+
+@media (max-width:700px) {
+    .infoBox__title {
+        font-size: .8rem!important;
+    }
+    .infoBox__cases{
+        font-size:1.2rem!important;
+    }
+    .infoBox__total{
+        font-size: .7rem!important;
+    }
+    
+}
