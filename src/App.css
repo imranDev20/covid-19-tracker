@@ -70,5 +70,6 @@ body {
 @media (max-width: 768px){
   .app__dropdown .MuiSelect-root{
     font-size: .8rem!important;
+    min-width: 80px;
   }
 }
