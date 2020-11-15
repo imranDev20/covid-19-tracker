@@ -44,5 +44,7 @@
     .infoBox__total{
         font-size: .7rem!important;
     }
-    
+    .infoBox:not(:last-child) {
+        margin-right: 5px;
+    }
 }
