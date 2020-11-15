@@ -72,4 +72,9 @@ body {
     font-size: .7rem!important;
     min-width: 110px;
   }
+
+  .app__right {
+    margin-top: 30px;
+  }
+  
 }
